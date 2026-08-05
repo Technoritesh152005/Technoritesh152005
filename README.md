@@ -140,7 +140,7 @@ I enjoy solving engineering problems beyond just making features work—focusing
 
 # 📊 Contribution Graph
 
-[![Ritesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Technoritesh152005&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ritesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Technoritesh152005&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
