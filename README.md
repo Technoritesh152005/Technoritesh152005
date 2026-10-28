@@ -157,4 +157,4 @@ I enjoy solving engineering problems beyond just making features work—focusing
 ---
 
 ### Thanks for visiting! ⭐
-If you like my projects, consider giving them a ⭐.
+If you like my projects then no problem.
